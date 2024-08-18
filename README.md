@@ -1,5 +1,5 @@
 <html>
-    <title>контактний зоопарк "Капібара"</title>
+    <title>Контактний зоопарк "Капібара"</title>
     <body style="font-family:sans-serif;background-color:lightgreen">
         <header style="color:green;font-size:25px;font-family:cursive">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwJrIVIwnxiqnHDgATIcgKt3HwjckQPytQw&s" height="50" weight="50"/>
@@ -31,7 +31,7 @@
                     <td>Середа</td>
                     <td>8:00\20:00</td>
                 </tr>
-                 <tr style="border:1px solid green;border-collapse:collapse">
+                 <tr style="border:1px solid green;border-collapse:collapse;background-color:red">
                     <td>Четвер</td>
                     <td>вихідний</td>
                 </tr>
@@ -39,7 +39,7 @@
                     <td>П'ятниця</td>
                     <td>8:00\20:00</td>
                 </tr>
-                 <tr style="border:1px solid green;border-collapse:collapse">
+                 <tr style="border:1px solid green;border-collapse:collapse;background-color:red">
                     <td>Субота</td>
                     <td>вихідний</td>
                 </tr>
@@ -51,6 +51,7 @@
             <p style="background-color:lightblue;font-size:20px;font-family:cursive"> Звертатися за телефоном:+380 999 9097.
                     або за електроною адресою: contactzookapibara@gmail.com
                 </p>
+            <a href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B8">Джерело</a>
         </footer>
     </body>
 </html>
